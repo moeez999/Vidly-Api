@@ -1,5 +1,5 @@
 {
   "jwtPrivateKey": "unsecureKey",
   "db": "mongodb://127.0.0.1/vidly",
-  "requiresAuth": false
+  "requiresAuth": true
 }
