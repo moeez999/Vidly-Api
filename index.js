@@ -20,7 +20,7 @@ const port = process.env.PORT || 30900;
 if (env == "production") {
   require("./startup/prod")(app);
 } else {
-  console.log("Server is Running");
+  console.log("سرور پورٹ 3000 چل رہا ہے۔");
 }
 app.listen(port, () => {
   winston.info(`Listening at ${port}`);
