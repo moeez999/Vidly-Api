@@ -1,0 +1,50 @@
+{"message":"Listening at 3000","level":"info"}
+{"message":"connect ECONNREFUSED 127.0.0.1:27017 connect ECONNREFUSED 127.0.0.1:27017","reason":{"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null},"level":"error","stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at NativeConnection.Connection.openUri (D:\\Disk D\\Tutorials\\Node Mosh\\vidly\\node_modules\\mongoose\\lib\\connection.js:826:32)\n    at Mongoose.connect (D:\\Disk D\\Tutorials\\Node Mosh\\vidly\\node_modules\\mongoose\\lib\\index.js:335:15)\n    at module.exports (D:\\Disk D\\Tutorials\\Node Mosh\\vidly\\startup\\db.js:6:6)\n    at Object.<anonymous> (D:\\Disk D\\Tutorials\\Node Mosh\\vidly\\index.js:6:24)\n    at Module._compile (internal/modules/cjs/loader.js:1138:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)\n    at Module.load (internal/modules/cjs/loader.js:986:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:879:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"Listening at 3000","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"level":"error","message":"mongoose is not defined mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at C:\\Users\\Moeez\\Desktop\\Vidly\\routes\\movies.js:20:5\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"level":"error","message":"mongoose is not defined mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at C:\\Users\\Moeez\\Desktop\\Vidly\\routes\\movies.js:20:5\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
+{"message":"Listening at 30900","level":"info"}
+{"message":"Mongodb connected","level":"info"}
